@@ -1,0 +1,52 @@
+2014-10-09 15:12:18.905 TweetMirror[29636:1730242] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/fredbradley/Library/Developer/CoreSimulator/Devices/704F9EC6-BF5E-41B0-83B2-C5C25D86926D/data/Containers/Data/Application/B4C820B6-C186-4433-AF7D-00095A7CDA9E/Library/Cookies/Cookies.binarycookies
+2014-10-09 15:12:18.999 TweetMirror[29636:1730242] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-09 15:12:19.000 TweetMirror[29636:1730242] Multi-tasking -> Device: YES, App: YES
+2014-10-09 15:12:19.027 TweetMirror[29636:1730242] Unlimited access to network resources
+2014-10-09 15:12:19.034 TweetMirror[29636:1730242] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-09 15:12:20.368 TweetMirror[29636:1730242] Resetting plugins due to page load.
+2014-10-09 15:12:20.489 TweetMirror[29636:1730242] Finished load of: file:///Users/fredbradley/Library/Developer/CoreSimulator/Devices/704F9EC6-BF5E-41B0-83B2-C5C25D86926D/data/Containers/Bundle/Application/8F34ACBF-E182-4635-8D9D-D2400AF769AC/TweetMirror.app/www/index.html
+2014-10-09 15:25:53.620 TweetMirror[30291:1740555] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/fredbradley/Library/Developer/CoreSimulator/Devices/704F9EC6-BF5E-41B0-83B2-C5C25D86926D/data/Containers/Data/Application/C51365B3-22BB-4C22-8A18-62FC3911ED52/Library/Cookies/Cookies.binarycookies
+2014-10-09 15:25:53.771 TweetMirror[30291:1740555] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-09 15:25:53.771 TweetMirror[30291:1740555] Multi-tasking -> Device: YES, App: YES
+2014-10-09 15:25:53.796 TweetMirror[30291:1740555] Unlimited access to network resources
+2014-10-09 15:25:53.803 TweetMirror[30291:1740555] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-09 15:25:54.481 TweetMirror[30291:1740555] Resetting plugins due to page load.
+2014-10-09 15:25:54.765 TweetMirror[30291:1740555] Finished load of: file:///Users/fredbradley/Library/Developer/CoreSimulator/Devices/704F9EC6-BF5E-41B0-83B2-C5C25D86926D/data/Containers/Bundle/Application/E4DCF44C-6370-4130-BFDC-5306C28FA60F/TweetMirror.app/www/index.html
+2014-10-09 15:27:43.826 TweetMirror[30598:1742928] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/fredbradley/Library/Developer/CoreSimulator/Devices/704F9EC6-BF5E-41B0-83B2-C5C25D86926D/data/Containers/Data/Application/0D6BF840-3798-40F2-9CFA-A045E4AB3D2E/Library/Cookies/Cookies.binarycookies
+2014-10-09 15:27:43.907 TweetMirror[30598:1742928] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-09 15:27:43.908 TweetMirror[30598:1742928] Multi-tasking -> Device: YES, App: YES
+2014-10-09 15:27:43.912 TweetMirror[30598:1742928] Unlimited access to network resources
+2014-10-09 15:27:43.915 TweetMirror[30598:1742928] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-09 15:27:44.188 TweetMirror[30598:1742928] Resetting plugins due to page load.
+2014-10-09 15:27:44.281 TweetMirror[30598:1742928] Finished load of: file:///Users/fredbradley/Library/Developer/CoreSimulator/Devices/704F9EC6-BF5E-41B0-83B2-C5C25D86926D/data/Containers/Bundle/Application/2346BBBE-5F97-404C-81FD-49090B4015EA/TweetMirror.app/www/index.html
+2014-10-09 15:29:39.763 TweetMirror[30819:1744416] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/fredbradley/Library/Developer/CoreSimulator/Devices/606FCB1C-3374-48AE-85D5-75ED7EE6F741/data/Containers/Data/Application/23D1E460-749A-40B2-8B86-7C169B12A13A/Library/Cookies/Cookies.binarycookies
+2014-10-09 15:29:39.861 TweetMirror[30819:1744416] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-09 15:29:39.861 TweetMirror[30819:1744416] Multi-tasking -> Device: YES, App: YES
+2014-10-09 15:29:39.869 TweetMirror[30819:1744416] Unlimited access to network resources
+2014-10-09 15:29:39.872 TweetMirror[30819:1744416] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-09 15:29:40.789 TweetMirror[30819:1744416] Resetting plugins due to page load.
+2014-10-09 15:29:40.876 TweetMirror[30819:1744416] Finished load of: file:///Users/fredbradley/Library/Developer/CoreSimulator/Devices/606FCB1C-3374-48AE-85D5-75ED7EE6F741/data/Containers/Bundle/Application/ABC6D119-8528-4362-AF69-4BD1A473BA49/TweetMirror.app/www/index.html

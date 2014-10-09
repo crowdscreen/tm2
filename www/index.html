@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<!--
+    Copyright (c) 2012-2014 Adobe Systems Incorporated. All rights reserved.
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css" />
+        <link rel="stylesheet" type="text/css" href="css/style.css" />
+        <title>Hello World</title>
+        <script type="text/javascript" src="js/upload.js"></script>  
+
+    </head>
+    <body>
+    <div id="deviceready" class="blink">
+		<p class="event listening">Connecting to Device</p>
+		<p class="event received">Device is Ready</p>
+	</div>
+		<div id="launch" class="page">
+			Tap To Start
+		</div>
+
+		<div id="handle" class="page hidden">
+			<p>Enter your Twitter name (optional)...</p>
+			<input type="text" name="tweet_name" id="tweet_name" value="" placeholder="@CrowdScreen" />
+			<div id="handle_next">SKIP ></div>
+		</div>
+
+		<div id="message" class="page hidden">
+			<div id="options"></div>
+			<div id="text_next">NEXT ></div>
+		</div>
+
+		<div id="done" class="page hidden">
+			<div id="data"></div>
+			<div id="done_next">START AGAIN ></div>
+		</div>
+
+    
+    
+    	<div class="container">
+            
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<button class="btn btn-lg btn-warning blink" onclick="capturePhoto();">Capture Photo</button>
+				</div>			
+			</div>
+
+
+			<div class="row">
+				<div class="col-md-6 col-md-offset-3">
+					<img style="display:none;" class="img-responsive" id="largeImage" src="" />
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-6 col-md-offset-3">
+				
+				</div>
+			</div>
+		</div>
+
+        <div class="aspp">
+            <h1>Tweet Mirror V0.4.3</h1>
+            
+            
+                       <!-- <a href="test.html" style="background:#FFCC33;color:#fff;padding:20px;margin:20px;">Clicky Here</a>
+            -->
+			 <br>
+
+			
+			<img style="display:none;width:100px;height:100px;" id="smallImage" src="" />
+        </div>
+        
+    
+        
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/steve.js"></script>
+        <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        
+        <script type="text/javascript">
+        	// PhoneGap Initialize
+            app.initialize();
+        </script>
+    </body>
+</html>
